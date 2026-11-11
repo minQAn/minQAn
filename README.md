@@ -13,4 +13,4 @@ now expanding into the backend and cloud.
 
 > Public repos here are mostly earlier learning projects. Recent work is private (company / client).
 
-📫 [Portfolio](https://minqan.github.io) · [LinkedIn](https://www.linkedin.com/in/min-ku-an-16b56318b/)
+📫 [Portfolio](https://minq-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/min-ku-an-16b56318b/)
